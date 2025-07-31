@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Game
+#  Flappy Bird Game 🐦
 
 A web-based clone of the classic Flappy Bird game built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. The player controls a bird and must navigate through a series of pipes by clicking or tapping to flap upward, avoiding collisions to achieve a high score.
 
